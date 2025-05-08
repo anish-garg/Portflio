@@ -14,9 +14,9 @@ export const myProjects = [
         logo: "",
         //   image: "/assets/projects/upwatch.jpg",
         tags: [
-            { id: 1, name: "JavaScript", path: "../../public/assets/logos/javascript.svg" },
-            { id: 2, name: "TailwindCSS", path: "../../public/assets/logos/tailwindcss.svg" },
-            { id: 3, name: "React", path: "../../public/assets/logos/react.svg" },
+            { id: 1, name: "JavaScript", path: "assets/logos/javascript.svg" },
+            { id: 2, name: "TailwindCSS", path: "assets/logos/tailwindcss.svg" },
+            { id: 3, name: "React", path: "assets/logos/react.svg" },
             { id: 4, name: "MongoDB", path: "/assets/logos/mongodb.svg" },
             { id: 5, name: "Express", path: "/assets/logos/express.svg" },
             { id: 6, name: "Node.js", path: "/assets/logos/nodejs.svg" }
@@ -37,9 +37,9 @@ export const myProjects = [
         logo: "",
         //   image: "/assets/projects/realestate.jpg",
         tags: [
-            { id: 1, name: "JavaScript", path: "../../public/assets/logos/javascript.svg" },
-            { id: 2, name: "TailwindCSS", path: "../../public/assets/logos/tailwindcss.svg" },
-            { id: 3, name: "React", path: "../../public/assets/logos/react.svg" },
+            { id: 1, name: "JavaScript", path: "assets/logos/javascript.svg" },
+            { id: 2, name: "TailwindCSS", path: "assets/logos/tailwindcss.svg" },
+            { id: 3, name: "React", path: "assets/logos/react.svg" },
             { id: 4, name: "MongoDB", path: "/assets/logos/mongodb.svg" },
             { id: 5, name: "Express", path: "/assets/logos/express.svg" },
             { id: 6, name: "Node.js", path: "/assets/logos/nodejs.svg" }

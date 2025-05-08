@@ -14,7 +14,7 @@ const About = () => {
                 {/* Grid 1 */}
                 <div className='flex items-end grid-default-color grid-1'>
                     <img
-                        src="../../public/assets/coding-pov.png"
+                        src="assets/coding-pov.png"
                         alt="IDE"
                         className='absolute scale-[1.75] -right-[5rem] -top-[1rem] md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5rem]'
                     />
@@ -33,10 +33,10 @@ const About = () => {
                         <Card style={{ rotate: "90deg", bottom: "30%", left: "70%" }} text="Design Patterns" containerRef={grid2Container} />
                         <Card style={{ rotate: "-45deg", top: "55%", left: "0%" }} text="Design Principles" containerRef={grid2Container} />
                         <Card style={{ rotate: "20deg", top: "10%", left: "38%" }} text="Responsive" containerRef={grid2Container} />
-                        <Card style={{ rotate: "35deg", top: "15%", left: "5%" }} image="../../public/assets/logos/cplusplus.svg" containerRef={grid2Container} />
-                        <Card style={{ rotate: "20deg", top: "35%", left: "90%" }} image="../../public/assets/logos/csharp-pink.png" containerRef={grid2Container} />
-                        <Card style={{ rotate: "50deg", top: "70%", left: "40%" }} image="../../public/assets/logos/dotnet.svg" containerRef={grid2Container} />
-                        <Card style={{ rotate: "80deg", top: "10%", left: "70%" }} image="../../public/assets/logos/git.svg" containerRef={grid2Container} />
+                        <Card style={{ rotate: "35deg", top: "15%", left: "5%" }} image="assets/logos/cplusplus.svg" containerRef={grid2Container} />
+                        <Card style={{ rotate: "20deg", top: "35%", left: "90%" }} image="assets/logos/csharp-pink.png" containerRef={grid2Container} />
+                        <Card style={{ rotate: "50deg", top: "70%", left: "40%" }} image="assets/logos/dotnet.svg" containerRef={grid2Container} />
+                        <Card style={{ rotate: "80deg", top: "10%", left: "70%" }} image="assets/logos/git.svg" containerRef={grid2Container} />
                     </div>
                 </div>
                 {/* Grid 3 */}

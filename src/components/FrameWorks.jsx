@@ -19,7 +19,7 @@ export function FrameWorks() {
                 iconSize={40}
             >
                 {skills.map((skill, index) => (
-                    <Icon key={index} src={`../../public/assets/logos/${skill}.svg`} />
+                    <Icon key={index} src={`assets/logos/${skill}.svg`} />
                 ))}
             </OrbitingCircles>
             {/* Inner Circle */}
@@ -29,7 +29,7 @@ export function FrameWorks() {
                 reverse speed={2}
             >
                 {skills.reverse().map((skill, index) => (
-                    <Icon key={index} src={`../../public/assets/logos/${skill}.svg`} />
+                    <Icon key={index} src={`assets/logos/${skill}.svg`} />
                 ))}
             </OrbitingCircles>
         </div>
