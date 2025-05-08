@@ -10,16 +10,15 @@ export const myProjects = [
             "Added logging and analytics features to track uptime history over time.",
             "Built a clean, responsive UI to allow users to easily configure and view monitoring data."
         ],
-        href: "",
+        href: "https://up-watch-client.vercel.app",
         logo: "",
-        //   image: "/assets/projects/upwatch.jpg",
+        image: "/assets/projects/upwatch.png",
         tags: [
             { id: 1, name: "JavaScript", path: "assets/logos/javascript.svg" },
             { id: 2, name: "TailwindCSS", path: "assets/logos/tailwindcss.svg" },
             { id: 3, name: "React", path: "assets/logos/react.svg" },
-            { id: 4, name: "MongoDB", path: "/assets/logos/mongodb.svg" },
-            { id: 5, name: "Express", path: "/assets/logos/express.svg" },
-            { id: 6, name: "Node.js", path: "/assets/logos/nodejs.svg" }
+            { id: 4, name: "Node.js", path: "/assets/logos/nodejs.svg" },
+            { id: 5, name: "MongoDB", path: "/assets/logos/mongodb.svg" },
         ]
     },
     {
@@ -33,16 +32,15 @@ export const myProjects = [
             "Added features for agents and buyers to manage, bookmark, and inquire about listings.",
             "Created a responsive design ensuring usability across all device types."
         ],
-        href: "",
+        href: "https://real-estate-rk3y.vercel.app",
         logo: "",
-        //   image: "/assets/projects/realestate.jpg",
+        image: "/assets/projects/real_estate.png",
         tags: [
             { id: 1, name: "JavaScript", path: "assets/logos/javascript.svg" },
             { id: 2, name: "TailwindCSS", path: "assets/logos/tailwindcss.svg" },
             { id: 3, name: "React", path: "assets/logos/react.svg" },
-            { id: 4, name: "MongoDB", path: "/assets/logos/mongodb.svg" },
-            { id: 5, name: "Express", path: "/assets/logos/express.svg" },
-            { id: 6, name: "Node.js", path: "/assets/logos/nodejs.svg" }
+            { id: 4, name: "Node.js", path: "/assets/logos/nodejs.svg" },
+            { id: 5, name: "MongoDB", path: "/assets/logos/mongodb.svg" },
         ]
     },
     {
@@ -56,9 +54,9 @@ export const myProjects = [
             "Focused on clean UI/UX design to encourage daily usage.",
             "Ensured mobile responsiveness for use on-the-go."
         ],
-        href: "",
+        href: "https://daily-journal-91ol.onrender.com",
         logo: "",
-        //   image: "/assets/projects/daily-journal.jpg",
+        image: "/assets/projects/daily_journal.png",
         tags: [
             { id: 1, name: "JavaScript", path: "/assets/logos/javascript.svg" },
             { id: 2, name: "HTML", path: "/assets/logos/html5.svg" },
@@ -76,9 +74,9 @@ export const myProjects = [
             "Added a round-based scoring system and win/loss logic.",
             "Ensured smooth frame updates and optimized for performance on browsers."
         ],
-        href: "",
+        href: "https://fighting-game-lemon.vercel.app",
         logo: "",
-        //   image: "/assets/projects/fighting-game.jpg",
+        image: "/assets/projects/fighting_game.png",
         tags: [
             { id: 1, name: "JavaScript", path: "/assets/logos/javascript.svg" },
             { id: 2, name: "HTML Canvas", path: "/assets/logos/html5.svg" }
@@ -95,9 +93,9 @@ export const myProjects = [
             "Included a world map with interactive tooltips to explore country-level environmental data.",
             "Aimed to raise awareness about climate impact through data visualization."
         ],
-        href: "",
+        href: "https://forest-monitoring-system.vercel.app",
         logo: "",
-        //   image: "/assets/projects/forest-monitoring.jpg",
+        image: "/assets/projects/forest_monitoring.png",
         tags: [
             { id: 1, name: "React", path: "/assets/logos/react.svg" },
             { id: 2, name: "TailwindCSS", path: "/assets/logos/tailwindcss.svg" },
