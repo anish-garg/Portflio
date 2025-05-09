@@ -92,7 +92,7 @@ const Contact = () => {
                         />
                     </div>
                     <div className="mb-5">
-                        <label htmlFor="name">Full Name</label>
+                        <label htmlFor="name">Your Message</label>
                         <textarea
                             id="message"
                             type="text"

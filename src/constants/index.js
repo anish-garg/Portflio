@@ -111,12 +111,12 @@ export const mySocials = [
     },
     {
         name: "Twitter",
-        href: "",
+        href: "https://x.com/anish_garg_",
         icon: "/assets/socials/twitter.png",
     },
     {
         name: "Github",
-        href: "https:github.com/anish-garg",
+        href: "https://github.com/anish-garg",
         icon: "/assets/socials/github.png",
     },
     {
