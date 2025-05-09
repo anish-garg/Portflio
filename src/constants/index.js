@@ -102,3 +102,26 @@ export const myProjects = [
         ]
     }
 ];
+
+export const mySocials = [
+    {
+        name: "Linkedin",
+        href: "https://www.linkedin.com/in/anish-garg-48ba1512a",
+        icon: "/assets/socials/linkedIn.svg",
+    },
+    {
+        name: "Twitter",
+        href: "",
+        icon: "/assets/socials/twitter.png",
+    },
+    {
+        name: "Github",
+        href: "https:github.com/anish-garg",
+        icon: "/assets/socials/github.png",
+    },
+    {
+        name: "Instagram",
+        href: "https://www.instagram.com/_simply.anish",
+        icon: "/assets/socials/instagram.svg",
+    },
+];
