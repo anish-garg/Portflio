@@ -8,7 +8,7 @@ const About = () => {
     // To make elements stay in the container, will be passed a property
     const grid2Container = useRef();
     return (
-        <section className='c-space section-spacing'>
+        <section id='about' className='c-space section-spacing'>
             <h2 className='text-4xl font-bold'>About Me</h2>
             <div className='grid grid-col-1 gap-4 md:grid-cols-6 md:auto-rows-[18rem] mt-12'>
                 {/* Grid 1 */}
